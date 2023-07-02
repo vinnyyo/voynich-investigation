@@ -27,3 +27,4 @@ print(fdist.most_common(10))
 # Plot the frequency distribution
 fdist.plot(30, cumulative=False)
 plt.show()
+plt.savefig('plot.png')
