@@ -14,7 +14,7 @@ def get_paragraphs_from_pages(folder_name):
             # Read each line in the file
             for line in file:
                 # Split the line into words
-                words = re.split('[\.!*-]+', line.split(';C>')[1].strip())
+                words = re.split('[\.!*%-]+', line.split(';C>')[1].strip())
                 # Iterate through each word in the line
                 for word in words:
                     # Print the word
