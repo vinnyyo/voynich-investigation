@@ -11,12 +11,16 @@ The following graph shows a word frequency chart showing how many times the top 
 
 ![image](plotEverything.png)
 
+This is the word frequency distribution chart of a [Human Book](https://nibmehub.com/opac-service/pdf/read/A%20handbook%20of%20Native%20American%20Herbs.pdf) about plants. When comparing to the graph above we see a striking resemblance. Indicating that the word "daiin" is used in the same frequency as the word "the".
+
+![image](plotEveryEnglish.png)
+
 This table displays the most common combination of two words. Possibly showing how these words are used in combination with each other.
 
 ![image](plotEveryTwo.png)
 
-Possible future comparative reference.
+And here the same in english.
 
-- [Human Book](https://nibmehub.com/opac-service/pdf/read/A%20handbook%20of%20Native%20American%20Herbs.pdf)
+![image](plotEveryEnglishTwo.png)
 
-With further research, we may one day be able to speak with the space people, in their native language.
+With further research, we may one day be able to speak with the space people, in their native language. Though it seems as though the book is [just written in turkish](https://www.youtube.com/watch?v=p6keMgLmFEk).
